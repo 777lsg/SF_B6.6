@@ -1,6 +1,6 @@
 ---
 - name: ftp
-  hosts: all
+  hosts: sftp
   become: yes
 
   roles:
